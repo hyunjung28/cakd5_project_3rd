@@ -39,8 +39,6 @@
 
 
 
-New Direction팀 발표자료 中
-
 #### 👨‍👩‍👦‍👦 TeamMembers  
 
 - [`최종원`](https://github.com/joannajongwonchoi) &nbsp; 기획총괄, PT
