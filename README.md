@@ -1,1 +1,10 @@
-# cakd5_project_3rd
+# 긴급차량 골든타임 확보를 위한 AI기반 관제 솔루션
+## 2022년 제 2회 K-디지털 트레이닝 해커톤 최우수상 수상 
+
+- 🍀 CAKD5 3rd project
+- 📹 [Youtube]
+-
+
+## Project 3
+
+### 프로젝트 개요
