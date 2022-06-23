@@ -3,7 +3,17 @@
 
 - 🍀 CAKD5 3rd project
 - 📹 [Youtube]
--
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Yolov5-6DB33F?style=flat-square&logo=Yolo&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/kakaomapAPI-E6B91E?style=flat-square&logo=kakaomapAPI&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-DB3552?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-333664?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-005571?style=flat-square&logo=css&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/visualstudio-64335F?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
+</p>
 
 ## Project 3
 
