@@ -1,7 +1,8 @@
 ## 2022년 제 2회 K-디지털 트레이닝 해커톤 최우수상 수상 
-## New Direction (중앙정보처리학원)
+### New Direction (중앙정보처리학원)
 
-- 🚒 CAKD5 3rd project
+
+- 🚒 CAKD5 3rd project 
 - 📽️ [Youtube]
 
 <p align="center">
@@ -16,6 +17,7 @@
 </p>
 
 ## Project 3
+프로젝트 기간: 2022.05.16~2022.06.20
 
 ### 아이디어 개요
 - CCTV 영상을 통해 도로 위 주정차 차량 식별하고 긴급 차량의 통행 가능 여부를 지도 API를 통하여 시각화하여 제공
